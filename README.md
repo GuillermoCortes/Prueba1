@@ -1,4 +1,3 @@
 # Prueba1
 
-THE GAME
-xXl0RD666xX
+Este es una prueba de la creación de un repositorio en Git. Vaya.... esto se ve complicado.
